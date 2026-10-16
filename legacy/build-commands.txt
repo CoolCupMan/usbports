@@ -1,0 +1,12 @@
+
+g++ C:/Users/Cereal-C/Desktop/ACTIVEUSBPORTS.cpp -std=c++17 -municode -mwindows -o ACTIVEUSBPORTS.exe -lsetupapi && ./ACTIVEUSBPORTS.exe
+
+g++ C:/Users/Cereal-C/Desktop/ACTIVEUSBPORTS3.cpp -std=c++17 -municode -mwindows -lsetupapi -lcomctl32 -o ACTIVEUSBPORTS3.exe && ./ACTIVEUSBPORTS3.exe 
+
+g++ C:/Users/Cereal-C/Desktop/ACTIVEUSBPORTS4.cpp -std=c++17 -municode -mwindows -lsetupapi -lcomctl32 -o ACTIVEUSBPORTS4.exe && ./ACTIVEUSBPORTS4.exe 
+
+g++ C:/Users/Cereal-C/Desktop/ACTIVEUSBPORTS5.cpp -std=c++17 -municode -mwindows -lsetupapi -lcomctl32 -o ACTIVEUSBPORTS5.cpp && ./ACTIVEUSBPORTS5.cpp
+
+g++ C:/Users/Cereal-C/Desktop/ACTIVEUSBPORTS6.cpp -std=c++17 -municode -mwindows -lsetupapi -lcomctl32 -o ACTIVEUSBPORTS6.cpp && ./ACTIVEUSBPORTS6.cpp  
+
+
